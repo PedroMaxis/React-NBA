@@ -1,0 +1,39 @@
+{
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "react": "18.0.0",
+    "react-dom": "18.0.0"
+  },
+  "description": "React example starter project",
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react": "^3.1.0",
+    "autoprefixer": "10.4.13",
+    "postcss": "^8.4.20",
+    "react-router-dom": "^6.23.1",
+    "tailwindcss": "^3.2.4",
+    "typescript": "^4.9.3",
+    "vite": "^4.2.0"
+  },
+  "keywords": [
+    "react",
+    "starter"
+  ],
+  "main": "src/index.jsx",
+  "name": "react",
+  "scripts": {
+    "build": "npm run build:style && vite build",
+    "build:style": "tailwind build -i src/styles.css -c tailwind.config.js -o src/tailwind.css",
+    "dev": "npm run build:style && vite",
+    "preview": "npm run build:style && vite preview"
+  },
+  "version": "1.0.0"
+}
