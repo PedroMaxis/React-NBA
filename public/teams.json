@@ -1,0 +1,65 @@
+{
+  "times_nba": [
+    {
+      "nome": "Los Angeles Lakers",
+      "anos_campeao": [1949, 1950, 1952, 1953, 1954, 1972, 1980, 1982, 1985, 1987, 1988, 2000, 2001, 2002, 2009, 2010],
+      "casa": "Staples Center",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1200px-Los_Angeles_Lakers_logo.svg.png",
+      "camisa_url": "https://media.kohlsimg.com/is/image/kohls/2989678?wid=500&hei=500&op_sharpen=1"
+    },
+    {
+      "nome": "Boston Celtics",
+      "anos_campeao": [1957, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1968, 1969, 1974, 1976, 1981, 1984, 1986, 2008],
+      "casa": "TD Garden",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/1200px-Boston_Celtics.svg.png",
+      "camisa_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFV33EJrt_1v28mx3f5HbEErWs7AaEd_s_1g&usqp=CAU"
+    },
+    {
+      "nome": "Golden State Warriors",
+      "anos_campeao": [1947, 1956, 1975, 2015, 2017, 2018],
+      "casa": "Chase Center",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/1200px-Golden_State_Warriors_logo.svg.png",
+      "camisa_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK4BvejLKyvewbF9tH7z0v_fFxapUNh8tdDg&usqp=CAU"
+    },
+    {
+      "nome": "Chicago Bulls",
+      "anos_campeao": [1991, 1992, 1993, 1996, 1997, 1998],
+      "casa": "United Center",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Chicago_Bulls_logo.svg/1200px-Chicago_Bulls_logo.svg.png",
+      "camisa_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt1-e30Df-1T3cJ8lOAhzkfDjOrB0zWdPZ-w&usqp=CAU"
+    },
+    {
+      "nome": "Miami Heat",
+      "anos_campeao": [2006, 2012, 2013],
+      "casa": "American Airlines Arena",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Miami_Heat_logo.svg/1200px-Miami_Heat_logo.svg.png",
+      "camisa_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0m7uKs2OZS2L9I9kWZ_Eunb7oGt8kCyeb9Q&usqp=CAU"
+    },
+    {
+      "nome": "San Antonio Spurs",
+      "anos_campeao": [1999, 2003, 2005, 2007, 2014],
+      "casa": "AT&T Center",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/San_Antonio_Spurs.svg/1200px-San_Antonio_Spurs.svg.png",
+      "camisa_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD8Ov9nIq7DCd2R0OoScfSH-J52c3ZCtEL1w&usqp=CAU"
+    },
+    {
+      "nome": "Houston Rockets",
+      "anos_campeao": [1994, 1995],
+      "casa": "Toyota Center",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Houston_Rockets.svg/1200px-Houston_Rockets.svg.png",
+      "camisa_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6s7MCGnB_6yMqXqfLM0YxQdN6a8C6g6P37Q&usqp=CAU"
+    },
+    {
+      "nome": "Dallas Mavericks",
+      "anos_campeao": [2011],
+      "casa": "American Airlines Center",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Dallas_Mavericks_logo.svg/1200px-Dallas_Mavericks_logo.svg.png",
+      "camisa_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb1R_wd5xQ7ZypDNkNGWgk50iFwcnUwYv4Iw&usqp=CAU"
+    }
+  
+  ]
+}
+    
+      
+
+  
