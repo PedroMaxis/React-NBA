@@ -1,65 +1,68 @@
 {
   "times_nba": [
     {
+      "id": 1,
       "nome": "Los Angeles Lakers",
       "anos_campeao": [1949, 1950, 1952, 1953, 1954, 1972, 1980, 1982, 1985, 1987, 1988, 2000, 2001, 2002, 2009, 2010],
       "casa": "Staples Center",
       "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1200px-Los_Angeles_Lakers_logo.svg.png",
-      "camisa_url": "https://media.kohlsimg.com/is/image/kohls/2989678?wid=500&hei=500&op_sharpen=1"
+      "camisa_url": "https://images.tcdn.com.br/img/img_prod/1044362/camisa_nba_los_angeles_lakers_nike_icon_edition_jersey_2021_lebron_james_23_83_1_517a271f24c06ee213c476351702e917.png"
     },
     {
+      "id": 2,
       "nome": "Boston Celtics",
       "anos_campeao": [1957, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1968, 1969, 1974, 1976, 1981, 1984, 1986, 2008],
       "casa": "TD Garden",
       "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/1200px-Boston_Celtics.svg.png",
-      "camisa_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFV33EJrt_1v28mx3f5HbEErWs7AaEd_s_1g&usqp=CAU"
+      "camisa_url": "https://cdn.awsli.com.br/600x450/161/161023/produto/217050879/camisa-de-basquete-boston-celtics-jason-tatum-2023-em0t15o41t.jpg"
     },
     {
+      "id": 3,
       "nome": "Golden State Warriors",
       "anos_campeao": [1947, 1956, 1975, 2015, 2017, 2018],
       "casa": "Chase Center",
       "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/1200px-Golden_State_Warriors_logo.svg.png",
-      "camisa_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK4BvejLKyvewbF9tH7z0v_fFxapUNh8tdDg&usqp=CAU"
+      "camisa_url": "https://images.tcdn.com.br/img/img_prod/1044362/camisa_nba_golden_state_warriors_jordan_association_edition_jersey_stephen_curry_30_1103_2_4d3e24ed7a0d4be8a6639c92c7d2901b.png"
     },
     {
+      "id": 4,
       "nome": "Chicago Bulls",
       "anos_campeao": [1991, 1992, 1993, 1996, 1997, 1998],
       "casa": "United Center",
       "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Chicago_Bulls_logo.svg/1200px-Chicago_Bulls_logo.svg.png",
-      "camisa_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt1-e30Df-1T3cJ8lOAhzkfDjOrB0zWdPZ-w&usqp=CAU"
+      "camisa_url": "https://acdn.mitiendanube.com/stores/001/226/115/products/regata-nba-nike-swingman-chicago-bulls-branca-jordan-231-6821393dba48daf5b715914100125311-480-0.jpg"
     },
     {
+      "id": 5,
       "nome": "Miami Heat",
       "anos_campeao": [2006, 2012, 2013],
       "casa": "American Airlines Arena",
       "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Miami_Heat_logo.svg/1200px-Miami_Heat_logo.svg.png",
-      "camisa_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0m7uKs2OZS2L9I9kWZ_Eunb7oGt8kCyeb9Q&usqp=CAU"
+      "camisa_url": "https://acdn.mitiendanube.com/stores/001/226/115/products/regata-nba-nike-swingman-miami-heat-branca-butler-221-597fcfe5d8a6e57b0c15914012916851-640-0.jpg"
     },
     {
+      "id": 6,
       "nome": "San Antonio Spurs",
       "anos_campeao": [1999, 2003, 2005, 2007, 2014],
       "casa": "AT&T Center",
       "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/San_Antonio_Spurs.svg/1200px-San_Antonio_Spurs.svg.png",
-      "camisa_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD8Ov9nIq7DCd2R0OoScfSH-J52c3ZCtEL1w&usqp=CAU"
+      "camisa_url": "https://cdn.awsli.com.br/800x800/161/161023/produto/38726097/e10d9fd0e5.jpg"
     },
     {
+      "id": 7,
       "nome": "Houston Rockets",
       "anos_campeao": [1994, 1995],
       "casa": "Toyota Center",
       "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Houston_Rockets.svg/1200px-Houston_Rockets.svg.png",
-      "camisa_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6s7MCGnB_6yMqXqfLM0YxQdN6a8C6g6P37Q&usqp=CAU"
+      "camisa_url": "https://acdn.mitiendanube.com/stores/001/226/115/products/regata-nba-nike-swingman-houston-rockets-branca-harden-131-a573c9b545d4199c6415913696693667-640-0.jpg"
     },
     {
+      "id": 8,
       "nome": "Dallas Mavericks",
       "anos_campeao": [2011],
       "casa": "American Airlines Center",
       "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Dallas_Mavericks_logo.svg/1200px-Dallas_Mavericks_logo.svg.png",
-      "camisa_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb1R_wd5xQ7ZypDNkNGWgk50iFwcnUwYv4Iw&usqp=CAU"
+      "camisa_url": "https://acdn.mitiendanube.com/stores/001/778/536/products/dallas-mavericks-jordan-statement-edition-swingman-jersey-navy-maximillian-kleber-unisex_ss4_p-133651-dc100b343773773d8516793687905080-640-0.png"
     }
-  
   ]
 }
-    
-      
-
-  

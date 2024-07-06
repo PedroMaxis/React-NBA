@@ -1,0 +1,149 @@
+{
+    "times_nba": [
+      {
+        "id": 1,
+        "nome": "Los Angeles Lakers",
+        "jogadores": [
+          {
+            "nome": "LeBron James",
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/LeBron_James_2.jpg"
+          },
+          {
+            "nome": "Magic Johnson",
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Magic_Lakers_1987.jpg"
+          },
+          {
+            "nome": "Kobe Bryant",
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Kobe_Bryant_2014.jpg"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nome": "Boston Celtics",
+        "jogadores": [
+          {
+            "nome": "Larry Bird",
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Larry_Bird_Lipofsky.jpg"
+          },
+          {
+            "nome": "Paul Pierce",
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Paul_Pierce_2008.jpg"
+          },
+          {
+            "nome": "Bill Russell",
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bill_Russell_1966.jpg"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "nome": "Golden State Warriors",
+        "jogadores": [
+          {
+            "nome": "Stephen Curry",
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Stephen_Curry_with_ball_%28cropped%29.jpg"
+          },
+          {
+            "nome": "Kevin Durant",
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Kevin_Durant_free_throw.jpg"
+          },
+          {
+            "nome": "Klay Thompson",
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Klay_Thompson_2014.jpg"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "nome": "Chicago Bulls",
+        "jogadores": [
+          {
+            "nome": "Michael Jordan",
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Michael_Jordan_in_2014.jpg"
+          },
+          {
+            "nome": "Scottie Pippen",
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Scottie_Pippen.jpg"
+          },
+          {
+            "nome": "Derrick Rose",
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Derrick_Rose_2011.jpg"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "nome": "Miami Heat",
+        "jogadores": [
+          {
+            "nome": "Dwyane Wade",
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Dwyane_Wade.jpg"
+          },
+          {
+            "nome": "LeBron James",
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/LeBron_James_2.jpg"
+          },
+          {
+            "nome": "Shaquille O'Neal",
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Shaquille_O%27Neal.JPG"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "nome": "San Antonio Spurs",
+        "jogadores": [
+          {
+            "nome": "Tim Duncan",
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Tim_Duncan_2014.jpg"
+          },
+          {
+            "nome": "Tony Parker",
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Tony_Parker_2012.jpg"
+          },
+          {
+            "nome": "Manu Ginobili",
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Manu_Ginobili_-_Team_USA.jpg"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "nome": "Houston Rockets",
+        "jogadores": [
+          {
+            "nome": "Hakeem Olajuwon",
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Hakeem_Olajuwon.jpg"
+          },
+          {
+            "nome": "Tracy McGrady",
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Tracy_McGrady_2006.jpg"
+          },
+          {
+            "nome": "Yao Ming",
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Yao_Ming_2006.jpg"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "nome": "Dallas Mavericks",
+        "jogadores": [
+          {
+            "nome": "Dirk Nowitzki",
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Dirk_Nowitzki_2011.jpg"
+          },
+          {
+            "nome": "Jason Kidd",
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Jason_Kidd_2011.jpg"
+          },
+          {
+            "nome": "Luka Dončić",
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Luka_Don%C4%8Di%C4%87_2019_%28cropped%29.jpg"
+          }
+        ]
+      }
+    ]
+  }
+  

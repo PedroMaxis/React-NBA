@@ -27,9 +27,9 @@ useEffect(() => {
                 teams.map((team) =>
                 <Card 
                 id={team.id}
+                logo_url={team.logo_url}
                 nome={team.nome}
-                logo_url={team.logo_url}/>
-               
+                />
                 )      
             } 
             
