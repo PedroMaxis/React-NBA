@@ -7,7 +7,8 @@ import React, { useState, useEffect } from 'react';
 export function Info() {
     var { nome } = useParams()
 
-    const [ teams, setTeams ] = useState([null])
+    const [teams, setTeams ] = useState([])
+    const [anos, setAnos] = useState([])
 
    useEffect(() => {
         const buscarTime = async () => {
@@ -20,6 +21,7 @@ export function Info() {
             
             // Setar o estado com o time encontrado
             setTeams(timeEncontrado);
+            setAnos(timeEncontrado.anos_campeao)
         };
 
         buscarTime();
@@ -38,9 +40,9 @@ export function Info() {
                     <div>
                         <h1 className="lg:text-4xl text-white mb-3 text-center">Anos que foi campeão</h1>
                         <ul className="text-white ml-7 lg:ml-[90px] float-left text-2xl ">
-                       {/* {teams.anos_campeao.map(ano => (
+                        {anos.map(ano => (
                                     <li key={ano}>{ano}</li>
-                                ))}   */}
+                                ))}   
                         </ul>
                     </div>
                     <div>

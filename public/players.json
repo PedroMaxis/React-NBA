@@ -6,11 +6,11 @@
         "jogadores": [
           {
             "nome": "LeBron James",
-            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/LeBron_James_2.jpg"
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/LeBron_James_and_Kevin_Love_%28cropped%29.jpg/640px-LeBron_James_and_Kevin_Love_%28cropped%29.jpg"
           },
           {
             "nome": "Magic Johnson",
-            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Magic_Lakers_1987.jpg"
+            "draft_photo_url": "https://cdn.britannica.com/27/189527-050-5BAD12C2/Magic-Johnson.jpg"
           },
           {
             "nome": "Kobe Bryant",
@@ -24,15 +24,15 @@
         "jogadores": [
           {
             "nome": "Larry Bird",
-            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Larry_Bird_Lipofsky.jpg"
+            "draft_photo_url": "https://cdn.britannica.com/60/258260-050-35DB0395/larry-bird-of-boston-celtics-shoots-free-throw-against-the-washington-bullets-1985.jpg"
           },
           {
             "nome": "Paul Pierce",
-            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Paul_Pierce_2008.jpg"
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Paul_Pierce_2008-01-13.jpg"
           },
           {
             "nome": "Bill Russell",
-            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bill_Russell_1966.jpg"
+            "draft_photo_url": "https://cdn.britannica.com/65/234465-050-A5ECD52A/Bill-Russell-Boston-Celtics-undated-photo.jpg"
           }
         ]
       },
@@ -42,15 +42,15 @@
         "jogadores": [
           {
             "nome": "Stephen Curry",
-            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Stephen_Curry_with_ball_%28cropped%29.jpg"
+            "draft_photo_url": "https://hips.hearstapps.com/hmg-prod/images/stephen-curry-gettyimages-1398745379.jpg"
           },
           {
             "nome": "Kevin Durant",
-            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Kevin_Durant_free_throw.jpg"
+            "draft_photo_url": "https://e0.365dm.com/18/12/2048x1152/skysports-kevin-durant-golden-state-warriors_4510337.jpg?20181206083205"
           },
           {
             "nome": "Klay Thompson",
-            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Klay_Thompson_2014.jpg"
+            "draft_photo_url": "https://lncimg.lance.com.br/cdn-cgi/image/width=1280,height=720,quality=75,format=webp/uploads/2024/07/Klay-Thompson-5-aspect-ratio-512-320.jpg"
           }
         ]
       },
@@ -60,15 +60,15 @@
         "jogadores": [
           {
             "nome": "Michael Jordan",
-            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Michael_Jordan_in_2014.jpg"
+            "draft_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWMzBOvRSYNbchM69HgUffECIMuMjFq87ywnhR6Xk_9fIlGwbG"
           },
           {
             "nome": "Scottie Pippen",
-            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Scottie_Pippen.jpg"
+            "draft_photo_url": "https://bullsbrasil.wordpress.com/wp-content/uploads/2010/02/pippen.jpg"
           },
           {
             "nome": "Derrick Rose",
-            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Derrick_Rose_2011.jpg"
+            "draft_photo_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlIVcUGZavMYaQosSokCRbogyaVqPgzlF6JGGlZMNjbu5lOAxN"
           }
         ]
       },
@@ -78,15 +78,15 @@
         "jogadores": [
           {
             "nome": "Dwyane Wade",
-            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Dwyane_Wade.jpg"
+            "draft_photo_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/msnbc/Components/Photos/061224/061224_wade_vlrg_12p.jpg"
           },
           {
             "nome": "LeBron James",
-            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/LeBron_James_2.jpg"
+            "draft_photo_url": "https://jpimg.com.br/uploads/2017/04/H_20111219_123117-3.jpg"
           },
           {
             "nome": "Shaquille O'Neal",
-            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Shaquille_O%27Neal.JPG"
+            "draft_photo_url": "https://images.futebolinterior.com.br/2021/04/0002050210864_img.jpg"
           }
         ]
       },
@@ -96,15 +96,15 @@
         "jogadores": [
           {
             "nome": "Tim Duncan",
-            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Tim_Duncan_2014.jpg"
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Tim_Duncan.jpg"
           },
           {
             "nome": "Tony Parker",
-            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Tony_Parker_2012.jpg"
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Parker_khomar.JPG/1200px-Parker_khomar.JPG"
           },
           {
             "nome": "Manu Ginobili",
-            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Manu_Ginobili_-_Team_USA.jpg"
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Manu_Gin%C3%B3bili_%28cropped_2%29.jpg"
           }
         ]
       },
@@ -114,15 +114,15 @@
         "jogadores": [
           {
             "nome": "Hakeem Olajuwon",
-            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Hakeem_Olajuwon.jpg"
+            "draft_photo_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGW-S0TNS1QiCyC1NbJ78C6BuumyQrPGtm-qUEPdcme4y8u1Oo"
           },
           {
             "nome": "Tracy McGrady",
-            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Tracy_McGrady_2006.jpg"
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Tracy_McGrady_1.jpg/640px-Tracy_McGrady_1.jpg"
           },
           {
             "nome": "Yao Ming",
-            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Yao_Ming_2006.jpg"
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/YaoMingonoffense2.jpg/1200px-YaoMingonoffense2.jpg"
           }
         ]
       },
@@ -132,15 +132,15 @@
         "jogadores": [
           {
             "nome": "Dirk Nowitzki",
-            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Dirk_Nowitzki_2011.jpg"
+            "draft_photo_url": "https://www.usatoday.com/gcdn/-mm-/ad07fc0628987cc179f39e4ceddb377d02845c02/c=0-40-2272-3069/local/-/media/2017/03/08/USATODAY/USATODAY/636245933357106206-USATSI-9856648.jpg"
           },
           {
             "nome": "Jason Kidd",
-            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Jason_Kidd_2011.jpg"
+            "draft_photo_url": "https://cdn.vox-cdn.com/thumbor/GmEjfAv0QMvEVw0DaT2zODOtKaY=/0x0:3000x2001/1200x800/filters:focal(1260x761:1740x1241)/cdn.vox-cdn.com/uploads/chorus_image/image/69502672/143139329.0.jpg"
           },
           {
             "nome": "Luka Dončić",
-            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Luka_Don%C4%8Di%C4%87_2019_%28cropped%29.jpg"
+            "draft_photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Luka_Doncic_2021_%28cropped%29.jpg"
           }
         ]
       }
