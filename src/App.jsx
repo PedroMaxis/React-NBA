@@ -1,17 +1,15 @@
 import "./styles.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { LandingPage } from "./Pages/LandingPage";
-import { AboutUs } from "./Pages/AboutUs";
-import { Projetos } from "./Pages/Projects";
+import { Info } from "./Pages/Info";
+
  
 const App = () => {
   return (
     <BrowserRouter>
       <Routes>
           <Route path="/" element={<LandingPage />}></Route>
-          <Route path="sobremim" element={<AboutUs />} />
-          <Route path="projetos" element={<Projetos />} />
-          <Route path="contato" element={<LandingPage />} />
+          <Route path="/info/:nome" element={<Info />}></Route> 
       </Routes>
     </BrowserRouter>
   );
