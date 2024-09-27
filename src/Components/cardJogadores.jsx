@@ -3,7 +3,9 @@ export function CardJogadores({nome,image_url}){
         <>
         <div className="rounded-xl bg-[#c8c8c8] pt-4 pr-9 pb-[30px] pl-9 flex gap-2.5 items-end justify-center flex-wrap relative overflow-hidden">
     <h1 className="text-xl">{nome}</h1>
-<img className="min-w-44 h-22" src={image_url} alt={nome} />
+    <div className="min-w-44 h-62">
+    <img className="object-fill" src={image_url} alt={nome} />
+    </div>
 </div>
         </>
     )

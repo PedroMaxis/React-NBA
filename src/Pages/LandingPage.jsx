@@ -1,7 +1,7 @@
 import { Header } from "../Components/Header"
 import { Card } from "../Components/Card"
 import { useState, useEffect } from 'react';
-
+import  FadeInSection  from "../Components/FadeIn"
 
 export function LandingPage() {
     const [ teams, setTeams ] = useState([])
@@ -21,7 +21,8 @@ useEffect(() => {
     return(
         <>
             <Header/>
-            <div className=" mt-3 ml-3 mr-3 shrink-0 grid grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-4 justify-center">
+            <FadeInSection> 
+            <div className="mt-3 ml-3 mr-3 shrink-0 grid grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-4 justify-center">
 
             {
                 teams.map((team) =>
@@ -34,6 +35,7 @@ useEffect(() => {
             } 
             
             </div>
+            </FadeInSection>
         </>
 
     )
