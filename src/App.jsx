@@ -4,14 +4,14 @@ import { LandingPage } from "./Pages/LandingPage";
 import { Info } from "./Pages/Info";
 import { Jogadores } from "./Pages/Jogadores";
 import { Login } from "./Pages/Login";
-import { Register } from "./Pages/register";
+import { Register } from "./Pages/Register";
  
 const App = () => {
   return (
     <BrowserRouter>
       <Routes>
-          <Route path="/" element={<LandingPage />}></Route>
-          <Route path="/login" element={<Login />}></Route>
+          <Route path="/LadingPage" element={<LandingPage />}></Route>
+          <Route path="/" element={<Login />}></Route>
            <Route path="/register" element={<Register />}></Route>
           <Route path="/info/:nome" element={<Info />}></Route> 
           <Route path="/jogadores/:nome" element={<Jogadores />}></Route> 
