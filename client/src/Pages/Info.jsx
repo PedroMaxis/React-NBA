@@ -31,7 +31,7 @@ export function Info() {
         <>
         <Header/>
         <div className="flex h-screen justify-center items-center">
-            <div className="bg-slate-600 pt-0 p-10 rounded-xl items-center">
+            <div className="bg-slate-600 pt-0 p-10 items-center">
                 <div className="flex lg:grid lg:grid-flow-col lg:grid-cols-2 justify-between mb-10"> 
                     <h1 className="text-lg text-white lg:text-5xl float-left text-center">{teams.nome}</h1>
                     <h1 className="text-lg text-white lg:text-5xl float-right text-center">{teams.casa}</h1>
@@ -47,7 +47,7 @@ export function Info() {
                     </div>
                     <div>
                     <h1 className="lg:text-4xl text-white mb-3 text-center">Camisa do Time</h1>
-                        <img className="text-center h-[400px] object-contain" src={teams.camisa_url} alt="camisa" />
+                        <img className="text-center h-[400px]" src={teams.camisa_url} alt="camisa" />
                     </div>
 
                 </div>    
