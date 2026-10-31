@@ -1,0 +1,179 @@
+{
+ "timestamp": "2026-10-31T17:14:39Z",
+ "status": "success",
+ "season": {
+  "year": 2027,
+  "displayName": "2026-27",
+  "type": 2,
+  "name": "Regular Season"
+ },
+ "athletes": [
+  {
+   "id": "5113969",
+   "uid": "s:40~l:46~a:5113969",
+   "guid": "a24923a3-f2e0-334d-942f-3d3689f88655",
+   "alternateIds": {
+    "sdr": "5113969"
+   },
+   "firstName": "Cameron",
+   "lastName": "Carr",
+   "fullName": "Cameron Carr",
+   "displayName": "Cameron Carr",
+   "shortName": "C. Carr",
+   "weight": 184.0,
+   "displayWeight": "184 lbs",
+   "height": 77.0,
+   "displayHeight": "6' 5\"",
+   "age": 21,
+   "dateOfBirth": "2004-11-21T08:00Z",
+   "slug": "cameron-carr",
+   "headshot": {
+    "href": "https://a.espncdn.com/i/headshots/nba/players/full/5113969.png",
+    "alt": "Cameron Carr"
+   },
+   "jersey": "43",
+   "position": {
+    "id": "3",
+    "name": "Guard",
+    "displayName": "Guard",
+    "abbreviation": "G",
+    "leaf": false
+   },
+   "experience": {
+    "years": 0
+   }
+  },
+  {
+   "id": "3945274",
+   "uid": "s:40~l:46~a:3945274",
+   "guid": "583794eb-0f38-9bbd-3e25-9dd33b7f83b8",
+   "alternateIds": {
+    "sdr": "3945274"
+   },
+   "firstName": "Luka",
+   "lastName": "Doncic",
+   "fullName": "Luka Doncic",
+   "displayName": "Luka Doncic",
+   "shortName": "L. Doncic",
+   "weight": 230.0,
+   "displayWeight": "230 lbs",
+   "height": 80.0,
+   "displayHeight": "6' 8\"",
+   "age": 27,
+   "dateOfBirth": "1999-02-28T08:00Z",
+   "debutYear": 2018,
+   "slug": "luka-doncic",
+   "headshot": {
+    "href": "https://a.espncdn.com/i/headshots/nba/players/full/3945274.png",
+    "alt": "Luka Doncic"
+   },
+   "jersey": "77",
+   "position": {
+    "id": "3",
+    "name": "Guard",
+    "displayName": "Guard",
+    "abbreviation": "G",
+    "leaf": false
+   },
+   "teams": [
+    {
+     "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/seasons/2027/teams/13?lang=en&region=us"
+    }
+   ],
+   "experience": {
+    "years": 9
+   },
+   "contract": {
+    "birdStatus": 0,
+    "baseYearCompensation": {
+     "active": false
+    },
+    "poisonPillProvision": {
+     "active": false
+    },
+    "incomingTradeValue": 49500000,
+    "outgoingTradeValue": 49500000,
+    "minimumSalaryException": false,
+    "optionType": 0,
+    "salary": 49500000,
+    "salaryRemaining": 0,
+    "yearsRemaining": 3,
+    "season": {
+     "year": 2027,
+     "startDate": "2026-09-30T07:00Z",
+     "endDate": "2027-06-26T06:59Z"
+    },
+    "tradeKicker": {
+     "active": false,
+     "percentage": 0.0,
+     "value": 0,
+     "tradeValue": 0
+    },
+    "tradeRestriction": false,
+    "unsignedForeignPick": false,
+    "active": true
+   }
+  },
+  {
+   "id": "4397014",
+   "uid": "s:40~l:46~a:4397014",
+   "guid": "dbe4d07d-9166-07d7-19f0-52cc771d179d",
+   "alternateIds": {
+    "sdr": "4397014"
+   },
+   "firstName": "Quentin",
+   "lastName": "Grimes",
+   "fullName": "Quentin Grimes",
+   "displayName": "Quentin Grimes",
+   "shortName": "Q. Grimes",
+   "weight": 210.0,
+   "displayWeight": "210 lbs",
+   "height": 76.0,
+   "displayHeight": "6' 4\"",
+   "age": 26,
+   "dateOfBirth": "2000-05-08T07:00Z",
+   "slug": "quentin-grimes",
+   "headshot": {
+    "href": "https://a.espncdn.com/i/headshots/nba/players/full/4397014.png",
+    "alt": "Quentin Grimes"
+   },
+   "jersey": "5",
+   "position": {
+    "id": "3",
+    "name": "Guard",
+    "displayName": "Guard",
+    "abbreviation": "G",
+    "leaf": false
+   },
+   "teams": [
+    {
+     "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/seasons/2027/teams/13?lang=en&region=us"
+    }
+   ],
+   "experience": {
+    "years": 6
+   }
+  }
+ ],
+ "coach": [
+  {
+   "id": "3024",
+   "firstName": "JJ",
+   "lastName": "Redick",
+   "experience": 2
+  }
+ ],
+ "team": {
+  "id": "13",
+  "abbreviation": "LAL",
+  "location": "Los Angeles",
+  "name": "Lakers",
+  "displayName": "Los Angeles Lakers",
+  "clubhouse": "https://www.espn.com/nba/team/_/name/lal/los-angeles-lakers",
+  "color": "552583",
+  "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+  "recordSummary": "4-2",
+  "seasonSummary": "2026-27",
+  "standingSummary": "1st in Pacific Division"
+ }
+}
