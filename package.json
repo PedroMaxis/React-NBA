@@ -2,7 +2,7 @@
   "name": "nba-log",
   "private": true,
   "version": "2.0.0",
-  "description": "Cat\u00e1logo de times da NBA: t\u00edtulos, arenas e jogadores marcantes",
+  "description": "Catálogo de times da NBA: títulos, arenas e jogadores marcantes",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -34,5 +34,8 @@
     "typescript-eslint": "^8.15.0",
     "vite": "^5.4.11",
     "vitest": "^2.1.5"
+  },
+  "engines": {
+    "node": "24.x"
   }
 }
